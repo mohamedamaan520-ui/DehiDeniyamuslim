@@ -1,15 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 650" role="img" aria-labelledby="t d">
-<title id="t">K/Dehidenya Muslim Maha Vidyalaya school crest</title><desc id="d">School crest with crescent and star, mosque, open book and Faith Honour Truth ribbon.</desc>
-<defs><linearGradient id="gold" x2="0" y2="1"><stop stop-color="#ffe88a"/><stop offset=".55" stop-color="#d9a52c"/><stop offset="1" stop-color="#fff0a8"/></linearGradient><linearGradient id="blue" x2="0" y2="1"><stop stop-color="#58d9f5"/><stop offset="1" stop-color="#0876c9"/></linearGradient><linearGradient id="green" x2="1" y2="1"><stop stop-color="#dfff29"/><stop offset=".5" stop-color="#a8d82a"/><stop offset="1" stop-color="#08763b"/></linearGradient></defs>
-<path d="M110 440 L25 390 65 485 18 490 160 585 205 500Z" fill="url(#blue)" stroke="#075a8c" stroke-width="5"/><path d="M490 440 L575 390 535 485 582 490 440 585 395 500Z" fill="url(#blue)" stroke="#075a8c" stroke-width="5"/>
-<circle cx="300" cy="310" r="225" fill="#073e50" stroke="url(#gold)" stroke-width="9"/><circle cx="300" cy="310" r="210" fill="#6d191c" stroke="#fff" stroke-width="6"/><circle cx="300" cy="310" r="177" fill="url(#green)" stroke="url(#gold)" stroke-width="7"/>
-<path id="toparc" d="M112 305 A188 188 0 0 1 488 305" fill="none"/><text fill="#fff" font-family="Georgia,serif" font-size="24" font-weight="bold" letter-spacing="1"><textPath href="#toparc" startOffset="50%" text-anchor="middle">K/DEHIDENIYA MUSLIM MAHA VIDYALAYA</textPath></text>
-<path id="bottomarc" d="M115 340 A188 188 0 0 0 485 340" fill="none"/><text fill="#fff" font-family="Georgia,serif" font-size="23" font-weight="bold"><textPath href="#bottomarc" startOffset="50%" text-anchor="middle">★ HATHARALIYADDA ★</textPath></text>
-<path d="M300 5 A54 54 0 1 0 350 82 A42 42 0 1 1 300 5" fill="#08743c" stroke="#064b2d" stroke-width="4"/><path d="M328 20 L338 52 371 52 345 72 355 104 328 84 301 104 311 72 285 52 318 52Z" fill="#050505"/>
-<path d="M125 330 Q160 290 205 252 Q250 215 295 255 Q340 215 385 255 Q430 290 475 330 L475 430 Q300 500 125 430Z" fill="#08743b" opacity=".95"/>
-<path d="M175 355 Q180 295 250 270 Q320 295 325 355Z" fill="#087c42" stroke="#064d2b" stroke-width="5"/><path d="M250 270 L250 248" stroke="#064d2b" stroke-width="6"/><path d="M250 239 A17 17 0 1 0 266 259 A14 14 0 1 1 250 239" fill="#f4d324"/>
-<rect x="315" y="255" width="40" height="115" rx="5" fill="#102b58"/><path d="M315 255 Q335 215 355 255Z" fill="#102b58"/><rect x="322" y="285" width="8" height="18" fill="#f7d52a"/><rect x="340" y="285" width="8" height="18" fill="#f7d52a"/><rect x="325" y="325" width="8" height="30" fill="#f7d52a"/><rect x="340" y="325" width="8" height="30" fill="#f7d52a"/>
-<path d="M370 255 Q395 238 420 255 L420 300 Q395 285 370 300Z" fill="#f7f7ee" stroke="#182b45" stroke-width="4"/><path d="M420 255 Q445 238 470 255 L470 300 Q445 285 420 300Z" fill="#fff" stroke="#182b45" stroke-width="4"/><path d="M420 255 V300" stroke="#182b45" stroke-width="3"/>
-<path d="M145 370 H455 V410 H145Z" fill="#f4d324" stroke="#173d31" stroke-width="4"/><path d="M160 410 H440 V445 H160Z" fill="#f4d324" stroke="#173d31" stroke-width="4"/><path d="M180 410 V445 M220 410 V445 M260 410 V445 M300 410 V445 M340 410 V445 M380 410 V445 M420 410 V445" stroke="#555" stroke-width="15"/>
-<path d="M115 500 Q300 585 485 500 L485 590 Q300 665 115 590Z" fill="#08090d" stroke="url(#gold)" stroke-width="6"/><text x="300" y="570" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="31" font-weight="bold">FAITH HONOUR TRUTH</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+<title id="title">K/Dehidenya Muslim Maha Vidyalaya</title><desc id="desc">School crest featuring a green crescent and star, mosque, minaret, open book, the school name and Faith Honour Truth motto.</desc>
+<defs>
+ <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff72b"/><stop offset="1" stop-color="#e6c900"/></linearGradient>
+ <linearGradient id="inner" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5ef00"/><stop offset=".55" stop-color="#c9df21"/><stop offset="1" stop-color="#72b52d"/></linearGradient>
+ <linearGradient id="ribbon" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#b9f0ff"/><stop offset="1" stop-color="#00a8e5"/></linearGradient>
+ <path id="topArc" d="M145 455 A255 255 0 0 1 655 455"/>
+ <path id="bottomArc" d="M145 455 A255 255 0 0 0 655 455"/>
+</defs>
+<!-- crescent and star -->
+<path d="M375 25 C285 30 245 105 260 180 C278 258 367 290 435 248 C360 270 296 222 292 153 C288 90 322 45 375 25Z" fill="#087b49" stroke="#071c12" stroke-width="3"/>
+<path d="M430 55 L448 111 L506 92 L467 139 L506 184 L447 164 L429 223 L411 164 L352 184 L391 139 L352 92 L411 111Z" fill="#050505" stroke="#050505" stroke-width="3"/>
+<!-- blue outer rim and maroon ring -->
+<circle cx="400" cy="475" r="300" fill="#08708a"/>
+<circle cx="400" cy="475" r="283" fill="#fff" />
+<circle cx="400" cy="475" r="270" fill="#641c20" stroke="#0a526d" stroke-width="7"/>
+<circle cx="400" cy="475" r="218" fill="url(#inner)" stroke="#fff" stroke-width="5"/>
+<text fill="#fff" font-family="Georgia,serif" font-size="39" font-weight="bold" letter-spacing="1"><textPath href="#topArc" startOffset="50%" text-anchor="middle">K/DEHIDENIYA MUSLIM MAHA VIDYALAYA</textPath></text>
+<text fill="#fff" font-family="Georgia,serif" font-size="34" font-weight="bold"><textPath href="#bottomArc" startOffset="50%" text-anchor="middle">★ HATHARALIYADDA ★</textPath></text>
+<!-- large green crescent in inner shield -->
+<path d="M315 270 C215 303 178 411 222 508 C260 591 360 626 448 587 C365 600 284 555 263 478 C239 392 266 320 315 270Z" fill="#006b3a"/>
+<!-- mosque dome -->
+<path d="M286 445 C289 386 329 348 378 329 C428 348 468 386 471 445Z" fill="#006b3b" stroke="#153e28" stroke-width="5"/>
+<path d="M378 331 L378 310" stroke="#143c2b" stroke-width="5"/>
+<path d="M377 298 C358 299 353 320 367 331 C379 339 394 331 398 319 C385 327 372 320 377 298Z" fill="#f3df00"/>
+<rect x="303" y="445" width="150" height="31" fill="#08713d" stroke="#183e2b" stroke-width="4"/>
+<g fill="#f4df18" stroke="#173e2c" stroke-width="2"><rect x="314" y="451" width="12" height="19" rx="3"/><rect x="335" y="451" width="12" height="19" rx="3"/><rect x="356" y="451" width="12" height="19" rx="3"/><rect x="377" y="451" width="12" height="19" rx="3"/><rect x="398" y="451" width="12" height="19" rx="3"/><rect x="419" y="451" width="12" height="19" rx="3"/></g>
+<!-- minaret -->
+<path d="M488 365 L512 365 L512 402 L529 402 L529 459 L480 459 L480 402 L488 402Z" fill="#082c64" stroke="#101b35" stroke-width="4"/>
+<path d="M489 365 Q500 337 512 365Z" fill="#082c64" stroke="#101b35" stroke-width="4"/>
+<path d="M500 337 L500 310" stroke="#082c64" stroke-width="7"/>
+<path d="M500 297 C483 314 488 329 500 337 C512 329 517 314 500 297Z" fill="#082c64"/>
+<rect x="490" y="411" width="8" height="15" fill="#f2d81a"/><rect x="509" y="411" width="8" height="15" fill="#f2d81a"/>
+<rect x="490" y="440" width="8" height="17" fill="#f2d81a"/><rect x="509" y="440" width="8" height="17" fill="#f2d81a"/>
+<!-- open book -->
+<path d="M546 360 Q584 344 616 360 L616 425 Q582 409 546 425Z" fill="#f8f8f2" stroke="#28313b" stroke-width="4"/>
+<path d="M616 360 Q648 344 680 360 L680 425 Q648 409 616 425Z" fill="#fff" stroke="#28313b" stroke-width="4"/>
+<path d="M616 360 V425" stroke="#333" stroke-width="3"/>
+<path d="M554 373 Q580 364 606 373 M554 385 Q580 377 606 385 M626 373 Q650 364 672 373 M626 385 Q650 377 672 385" fill="none" stroke="#a7a7a7" stroke-width="2"/>
+<!-- yellow platform and striped base -->
+<path d="M230 480 H670 V525 H230Z" fill="#f2df00" stroke="#263c20" stroke-width="3"/>
+<path d="M270 525 H630 V580 H270Z" fill="#f2df00" stroke="#263c20" stroke-width="3"/>
+<path d="M300 525 V580 M350 525 V580 M400 525 V580 M450 525 V580 M500 525 V580 M550 525 V580 M600 525 V580" stroke="#666" stroke-width="17"/>
+<!-- lower ribbon tails -->
+<path d="M185 720 L90 670 L130 765 L75 750 L250 900 L300 820Z" fill="url(#ribbon)" stroke="#121212" stroke-width="3"/>
+<path d="M615 720 L710 670 L670 765 L725 750 L550 900 L500 820Z" fill="url(#ribbon)" stroke="#121212" stroke-width="3"/>
+<!-- black motto banner -->
+<path d="M205 680 L595 680 L595 830 Q400 925 205 830Z" fill="#050505" stroke="#050505" stroke-width="5"/>
+<text x="400" y="815" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="49" font-weight="bold">FAITH HONOUR TRUTH</text>
 </svg>
